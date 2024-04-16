@@ -1,0 +1,16 @@
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\bin\Debug\ContactsWindowsForms.exe.config
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\bin\Debug\ContactsWindowsForms.exe
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\bin\Debug\ContactsWindowsForms.pdb
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\bin\Debug\ContactsBusinessLayer.dll
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\bin\Debug\ContactsDataAccessLayer.dll
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\bin\Debug\ContactsBusinessLayer.pdb
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\bin\Debug\ContactsDataAccessLayer.pdb
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.csproj.AssemblyReference.cache
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.Properties.Resources.resources
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.csproj.GenerateResource.cache
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\Contacts.B8D061F6.Up2Date
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.exe
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.pdb
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.frmListContact.resources
+C:\Users\AyhamPC\source\repos\ContactsWindowsForms\obj\Debug\ContactsWindowsForms.frmAddEditContact.resources
